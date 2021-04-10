@@ -4,7 +4,7 @@
 HELLO THERE Click The Below Button To Deploy , Or Click That Spiderman Image To Deploy 
 
 ### Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/hacke777/Nihaleesibot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hacke777/Nihaleesibot.git)
 
 ### Find me In Telegram As [Spiderman](https://t.me/The_Spiderman_Robot)
 
